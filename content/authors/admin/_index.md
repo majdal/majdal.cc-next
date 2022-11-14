@@ -11,14 +11,26 @@ social:
     link: https://mastodon.social/@majdal
     icon_pack: fas
     icon: mastodon
+  - display:
+      header: false
+    link: mailto:hi@majdal.cc
+    icon_pack: fas
+    icon: envelope
+    label: email
 organizations:
   - name: University of Toronto
     url: https://www.geography.utoronto.ca/people/directories/graduate-students
 education:
   courses:
+    - course: PhD in Geography
+      institution: University of Toronto
+      year: ""
     - course: Master's in urban planning
       institution: American University of Beirut
       year: 2021
+    - course: Bachelor of applied science -- Systems Design Engineering
+      institution: University of Waterloo
+      year: 2014
 superuser: true
 status:
   icon: ☕️
