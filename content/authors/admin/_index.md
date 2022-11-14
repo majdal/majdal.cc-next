@@ -1,11 +1,16 @@
 ---
-avatar_filename: ""
+avatar_filename: majdal.jpg
 bio: I'm a technologist, turned urban planner, turned technologisturbanplanner.
   Also PhD student, in geography, at University of Toronto. I think about
   computer simulations and their ontologies, and building them in participatory
   ways.
 interests: []
-social: []
+social:
+  - display:
+      header: false
+    link: https://mastodon.social/@majdal
+    icon_pack: fas
+    icon: mastodon
 organizations:
   - name: University of Toronto
     url: https://www.geography.utoronto.ca/people/directories/graduate-students
