@@ -1,71 +1,28 @@
 ---
-# Display name
-title: Alice Bighetti (吳恩達)
-
-# Is this the primary user of the site?
+avatar_filename: ""
+bio: I'm a technologist, turned urban planner, turned technologisturbanplanner.
+  Also PhD student, in geography, at University of Toronto. I think about
+  computer simulations and their ontologies, and building them in participatory
+  ways.
+interests: []
+social: []
+organizations:
+  - name: University of Toronto
+    url: https://www.geography.utoronto.ca/people/directories/graduate-students
+education:
+  courses:
+    - course: Master's in urban planning
+      institution: American University of Beirut
+      year: 2021
 superuser: true
-
-# Role/position
-role: 数据科学家
-
-# Status emoji
 status:
   icon: ☕️
-
-# Organizations/Affiliations
-organizations:
-  - name: 腾讯
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
-
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+title: Majd Al-Shihabi // مجد الشهابي
+role: PhD Student
+email: majd.al@gmail.com
 ---
+I am a systems design engineer, which I studied that at the University of Waterloo, in Canada. I apply systems thinking to a number of fields. First is designing and implementing large projects for the Web. The other is urban planning, which I am currently studying at the American University of Beirut.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am the inaugural [Bassel Khartabil Free Culture Fellow](https://creativecommons.org/2018/04/15/fellowship-memorial-fund/), and with the support of the fellowship, I work on [Palestine Open Maps](https://palopenmaps.org/), and the [Masrad:platform](https://masrad.org/) for archiving oral history.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+You can reach me by [email](mailto:hi@majdal.cc), or can follow me on [Twitter](https://twitter.com/majdal/), or view some of the code I wrote on [GitHub](https://github.com/majdal/) or [GitLab](https://gitlab.com/majdal/).
